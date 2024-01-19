@@ -1,0 +1,24 @@
+{
+  "name": "simplissue",
+  "version": "1.0.0",
+  "description": "Package npm to auto-publish issue on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TangoCh4rlie/Simplissue.git"
+  },
+  "keywords": [
+    "issue",
+    "github",
+    "error"
+  ],
+  "author": "tangoch4rlie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TangoCh4rlie/Simplissue/issues"
+  },
+  "homepage": "https://github.com/TangoCh4rlie/Simplissue#readme"
+}
